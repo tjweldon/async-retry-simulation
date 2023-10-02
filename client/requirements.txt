@@ -1,0 +1,8 @@
+requests
+ptpython
+prompt_toolkit
+websocket-client
+pandas
+matplotlib
+numpy
+scipy
